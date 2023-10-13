@@ -1,0 +1,13 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-02T06:59:36.069Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-02T06:59:38.153Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-02T06:59:38.156Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-02T06:59:38.289Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-02T06:59:38.291Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-02T06:59:38.295Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-02T06:59:38.296Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-02T06:59:38.296Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-02T06:59:38.689Z"}
+{"level":"info","message":"/auth/login","timestamp":"2019-10-02T13:30:29.308Z"}
+{"level":"info","message":"Request Query","timestamp":"2019-10-02T13:30:29.480Z"}
+{"level":"info","message":"Auth Token","timestamp":"2019-10-02T13:30:29.480Z"}
+{"level":"info","message":"Not Found","timestamp":"2019-10-02T13:30:55.396Z"}

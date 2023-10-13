@@ -1,0 +1,12 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-23T05:52:11.438Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-23T05:52:13.494Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-23T05:52:13.494Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-23T05:52:13.494Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-23T05:52:13.494Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-23T05:52:13.734Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-23T05:52:13.734Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-23T05:52:13.734Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-23T05:52:13.740Z"}
+{"accepted":["am@gmail.com"],"rejected":[],"envelopeTime":1191,"messageTime":1292,"messageSize":2309,"response":"250 2.0.0 OK  1571816359 x9sm29513375pje.27 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["am@gmail.com"]},"messageId":"<44d8da17-bbdb-aedc-a55d-78137dac23a5@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-10-23T07:39:18.121Z"}
+{"accepted":["am@gmail.com"],"rejected":[],"envelopeTime":769,"messageTime":734,"messageSize":2309,"response":"250 2.0.0 OK  1571816641 l93sm7543524pjb.6 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["am@gmail.com"]},"messageId":"<e630ca15-7e1a-43eb-3014-f831cb361403@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-10-23T07:44:00.934Z"}
+{"accepted":["am@gmail.com"],"rejected":[],"envelopeTime":773,"messageTime":651,"messageSize":2309,"response":"250 2.0.0 OK  1571816719 r18sm27614194pgm.31 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["am@gmail.com"]},"messageId":"<7fab5f4b-ab65-c08f-848c-83d3eaabe86b@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-10-23T07:45:18.504Z"}

@@ -1,0 +1,93 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T04:09:42.373Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T04:09:44.473Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T04:09:44.474Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T04:09:44.474Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T04:09:44.477Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T04:09:44.477Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T04:09:44.478Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T04:09:44.478Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T04:09:45.199Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T05:14:46.297Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T05:14:48.392Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T05:14:48.394Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T05:14:48.394Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T05:14:48.395Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T05:14:48.395Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T05:14:48.397Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T05:14:48.397Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T05:14:48.624Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T05:28:56.574Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T05:28:58.640Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T05:28:58.644Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T05:28:58.644Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T05:28:58.652Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T05:28:58.710Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T05:28:58.719Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T05:28:58.720Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T05:28:58.941Z"}
+{"message":"Message validation failed: productId: Path `productId` is required.","errors":{"productId":{"message":"Path `productId` is required.","name":"ValidatorError","properties":{"message":"Path `productId` is required.","type":"required","path":"productId"},"kind":"required","path":"productId"}},"_message":"Message validation failed","stack":"ValidationError: Message validation failed: productId: Path `productId` is required.\n    at new ValidationError (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\document.js:2073:32)\n    at p.doValidate.skipSchemaValidators (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\document.js:1936:17)\n    at C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:929:9\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)","name":"ValidationError","level":"error","timestamp":"2019-08-13T05:43:33.307Z"}
+{"message":"Message validation failed: productId: Path `productId` is required.","errors":{"productId":{"message":"Path `productId` is required.","name":"ValidatorError","properties":{"message":"Path `productId` is required.","type":"required","path":"productId"},"kind":"required","path":"productId"}},"_message":"Message validation failed","stack":"ValidationError: Message validation failed: productId: Path `productId` is required.\n    at new ValidationError (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Document.invalidate (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\document.js:2073:32)\n    at p.doValidate.skipSchemaValidators (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\document.js:1936:17)\n    at C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:929:9\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)","name":"ValidationError","level":"error","timestamp":"2019-08-13T05:43:37.140Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T06:03:35.694Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T06:03:37.937Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:03:37.943Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T06:03:37.950Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:03:37.955Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T06:03:37.971Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T06:03:37.975Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T06:03:37.993Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T06:03:38.322Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T06:05:14.565Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T06:05:16.980Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T06:05:17.049Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T06:05:17.078Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:05:17.078Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T06:05:17.078Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:05:17.078Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T06:05:17.078Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T06:05:17.991Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T06:07:56.908Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T06:07:59.092Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:07:59.098Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T06:07:59.099Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T06:07:59.099Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T06:07:59.133Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T06:07:59.135Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T06:07:59.398Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T06:08:00.627Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T07:44:22.096Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T07:44:24.144Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T07:44:24.152Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T07:44:24.156Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T07:44:24.156Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T07:44:24.173Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T07:44:24.174Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T07:44:24.176Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T07:44:24.387Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T09:24:24.011Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T09:24:26.084Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:24:26.095Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T09:24:26.097Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:24:26.097Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T09:24:26.104Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T09:24:26.108Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T09:24:26.155Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T09:24:26.395Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T09:31:27.730Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T09:31:29.794Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:31:29.795Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T09:31:29.795Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T09:31:29.795Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:31:29.799Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T09:31:29.800Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T09:31:29.800Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T09:31:30.007Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-08-13T09:34:17.591Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-08-13T09:34:19.651Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:34:19.652Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-08-13T09:34:19.652Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-08-13T09:34:19.652Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-08-13T09:34:19.652Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-08-13T09:34:19.652Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-08-13T09:34:19.654Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-08-13T09:34:19.916Z"}
+{"accepted":["reshma111mulani@gmail.com"],"rejected":[],"envelopeTime":1168,"messageTime":2814,"messageSize":1198,"response":"250 2.0.0 OK  1565699241 r188sm162767304pfr.16 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["reshma111mulani@gmail.com"]},"messageId":"<d2601cd5-515e-1479-8f74-1a2f3f04a7ec@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-08-13T12:27:19.562Z"}

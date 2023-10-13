@@ -1,0 +1,19 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2020-04-29T16:41:52.478Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2020-04-29T16:41:53.302Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2020-04-29T16:41:53.468Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2020-04-29T16:41:54.074Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2020-04-29T16:41:54.219Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2020-04-29T16:41:54.441Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2020-04-29T16:41:54.442Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2020-04-29T16:41:56.187Z"}
+{"level":"info","message":"Added Default User","timestamp":"2020-04-29T16:41:58.286Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2020-04-29T17:00:45.979Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2020-04-29T17:00:50.048Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2020-04-29T17:00:50.048Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2020-04-29T17:00:50.048Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2020-04-29T17:00:50.054Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2020-04-29T17:00:50.055Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2020-04-29T17:00:50.055Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2020-04-29T17:00:50.056Z"}
+{"level":"info","message":"Added Default User","timestamp":"2020-04-29T17:00:50.255Z"}
+{"message":"Access Denied","stack":"AccessDenied: Access Denied\n    at Request.extractError (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\services\\s3.js:585:35)\n    at Request.callListeners (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:683:14)\n    at Request.transition (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:22:10)\n    at AcceptorStateMachine.runTo (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\state_machine.js:14:12)\n    at C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\state_machine.js:26:10\n    at Request.<anonymous> (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:38:9)\n    at Request.<anonymous> (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:685:12)\n    at Request.callListeners (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\sequential_executor.js:116:18)\n    at Request.emit (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:683:14)\n    at Request.transition (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:22:10)\n    at AcceptorStateMachine.runTo (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\state_machine.js:14:12)\n    at C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\state_machine.js:26:10\n    at Request.<anonymous> (C:\\Pune DataBKP\\VBOGLOG\\oglog\\node_modules\\aws-sdk\\lib\\request.js:38:9)","code":"AccessDenied","region":null,"name":"AccessDenied","time":"2020-04-29T17:22:12.212Z","requestId":"C43C5A452CB89705","extendedRequestId":"4TuEfMICzYnJ1CvcVGw6Ig/kwNvm/Gt19RQIPxsM0IOcIVNm0dIWaUH/tHfiuy1D1Jlb1puqMgs=","statusCode":403,"retryable":false,"retryDelay":53.680544516182785,"level":"error","timestamp":"2020-04-29T17:22:12.368Z"}

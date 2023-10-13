@@ -1,0 +1,56 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T07:07:24.125Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T07:07:26.170Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T07:07:26.172Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T07:07:26.346Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T10:09:06.341Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:09:08.806Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T10:09:08.807Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:09:08.807Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T10:09:08.807Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T10:09:08.808Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T10:09:08.808Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T10:09:08.808Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T10:09:08.814Z"}
+{"message":"Cast to ObjectId failed for value \"{ _id: undefined }\" at path \"_id\" for model \"Message\"","stack":"CastError: Cast to ObjectId failed for value \"{ _id: undefined }\" at path \"_id\" for model \"Message\"\n    at new CastError (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schema\\objectid.js:232:11)\n    at ObjectId.SchemaType.applySetters (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\cast.js:252:34)\n    at model.Query.Query.cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:4257:12)\n    at castQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:4109:18)\n    at model.Query.Query._findAndModify (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:3142:23)\n    at model.Query.Query._findOneAndUpdate (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:2772:8)\n    at C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:278:20\n    at _next (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:102:16)\n    at process.nextTick (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:499:38)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"{ _id: undefined }\"","kind":"ObjectId","value":{},"path":"_id","level":"error","timestamp":"2019-10-24T10:09:37.084Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T10:11:21.486Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T10:11:23.527Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:11:23.530Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T10:11:23.530Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:11:23.530Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T10:11:23.533Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T10:11:23.533Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T10:11:23.534Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T10:11:23.748Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T10:13:17.563Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T10:13:19.634Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:13:19.636Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T10:13:19.637Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:13:19.641Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T10:13:19.643Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T10:13:19.644Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T10:13:19.646Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T10:13:19.859Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T10:15:49.692Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T10:15:51.730Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:15:51.733Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T10:15:51.735Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:15:51.739Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T10:15:51.742Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T10:15:51.742Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T10:15:51.744Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T10:15:51.987Z"}
+{"message":"Cast to ObjectId failed for value \"{ _id: undefined }\" at path \"_id\" for model \"Message\"","stack":"CastError: Cast to ObjectId failed for value \"{ _id: undefined }\" at path \"_id\" for model \"Message\"\n    at new CastError (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schema\\objectid.js:232:11)\n    at ObjectId.SchemaType.applySetters (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:845:12)\n    at ObjectId.SchemaType._castForQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1248:15)\n    at ObjectId.SchemaType.castForQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1238:15)\n    at ObjectId.SchemaType.castForQueryWrapper (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\schematype.js:1217:15)\n    at cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\cast.js:252:34)\n    at model.Query.Query.cast (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:4257:12)\n    at castQuery (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:4109:18)\n    at model.Query.Query._findAndModify (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:3142:23)\n    at model.Query.Query._findOneAndUpdate (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\mongoose\\lib\\query.js:2772:8)\n    at C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:278:20\n    at _next (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:102:16)\n    at process.nextTick (C:\\Pune DataBKP\\oglog\\Repository\\oglog\\node_modules\\kareem\\index.js:499:38)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"{ _id: undefined }\"","kind":"ObjectId","value":{},"path":"_id","level":"error","timestamp":"2019-10-24T10:16:20.192Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-24T10:17:56.823Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-24T10:17:58.884Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:17:58.903Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-24T10:17:58.907Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-24T10:17:58.912Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-24T10:17:58.921Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-24T10:17:59.163Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-24T10:17:59.163Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-24T10:17:59.234Z"}

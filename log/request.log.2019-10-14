@@ -1,0 +1,15 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-10-14T04:54:29.023Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-10-14T04:54:31.108Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-10-14T04:54:31.113Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-10-14T04:54:31.118Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-14T04:54:31.118Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-10-14T04:54:31.118Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-10-14T04:54:31.118Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-10-14T04:54:31.118Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-10-14T04:54:31.398Z"}
+{"accepted":["id786inns@gmail.com"],"rejected":[],"envelopeTime":1031,"messageTime":885,"messageSize":1188,"response":"250 2.0.0 OK  1571029106 126sm17278294pgg.10 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["id786inns@gmail.com"]},"messageId":"<ecb4eb64-7fec-2187-043a-e3921695e32d@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-10-14T04:58:26.395Z"}
+{"level":"info","message":"Not Found","timestamp":"2019-10-14T13:10:53.273Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-10-14T13:17:35.945Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-10-14T13:50:31.334Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-10-14T14:05:08.212Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-10-14T14:05:59.816Z"}

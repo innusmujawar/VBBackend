@@ -54,13 +54,11 @@ router.post('/auth/signup',function(req,res,next){
             newUser.lastName = userData.lastName;
             newUser.contactNo = userData.contactNo;
             newUser.email = userData.email;
-            newUser.password = userData.password;
-           
+            newUser.password = userData.password;        
             if(userData.hasOwnProperty('acountType')){
                 newUser.acountDetails.acountType = userData.acountType;
                 newUser.acountDetails.socialId = userData.socialId;
                 newUser.userStatus = true;
-                console.log('bAddressInside='+userData.businessAddress);
             }
             newUser.roleId = data._id;            
             newUser.save().then(
@@ -80,12 +78,11 @@ router.post('/auth/signup',function(req,res,next){
     });
 });
 
-router.post('/auth/login',function(req,res,next){
+router.post('/auth/login',async (req,res,next) => {
     var email = req.body.email;
     var contactNo = req.body.contactNo;
     var password = req.body.password;
     let userIdType;   
-    console.log('Login-body=',req.body);
     if ( req.body.hasOwnProperty('email')) {
         userIdType = { email: email.toLowerCase(), userStatus: true } ;
     }else{
@@ -96,8 +93,9 @@ router.post('/auth/login',function(req,res,next){
     if (!userIdType || !password) {
         res.status(400).send({ message: "Bad Request", status: false });
     }
-    user.find({ email: email.toLowerCase(), userStatus: true }, '+password').then(function(foundUser,err){
-        console.log('foundUser=',err);
+    user.findOne(userIdType, '+password').then(function(foundUser,err){
+        // user.findOne({ email: email.toLowerCase(), userStatus: true }, '+password', function (err, foundUser) {
+        // console.log('foundUser=',foundUser.password);
         if (err) {
             console.log('a')
             // logger.error(err);
@@ -110,10 +108,11 @@ router.post('/auth/login',function(req,res,next){
               
             }
             if(foundUser){
-                console.log('d')
-            foundUser.comparePassword(password, function (err, isMatch) {
+                console.log('pass=',password);
+             foundUser.comparePassword(password,foundUser.password, function (err, isMatch) {
+                // foundUser.comparePassword(password).then(function(isMatch,err){
                 if (err) {
-                    console.log('e')
+                    console.log('err=',err);
                     // logger.info('Incorrect Credentials');
                     res.status(401).send({ message: "Incorrect Credentials", status: false });
                 }

@@ -1,0 +1,41 @@
+{"level":"info","message":"Added Default Roles","timestamp":"2019-07-29T04:44:50.357Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-07-29T04:44:52.433Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-07-29T04:44:52.434Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-07-29T04:44:52.465Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T04:44:52.467Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-07-29T04:44:52.468Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T04:44:52.470Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-07-29T04:44:52.472Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-07-29T04:44:52.858Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":1076,"messageTime":817,"messageSize":1084,"response":"250 2.0.0 OK  1564381134 s22sm65749566pfh.107 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<219212f4-8314-38f9-92ce-4ea667a1df68@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T06:18:54.882Z"}
+{"level":"info","message":"Not Found","timestamp":"2019-07-29T06:22:07.537Z"}
+{"level":"info","message":"Not Found","timestamp":"2019-07-29T06:22:24.224Z"}
+{"level":"info","message":"Not Found","timestamp":"2019-07-29T06:22:44.861Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":795,"messageTime":679,"messageSize":1084,"response":"250 2.0.0 OK  1564381447 j6sm47583876pfa.141 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<8c4207c6-07ba-a35a-4d83-0645ee88ab24@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T06:24:08.575Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":793,"messageTime":555,"messageSize":1084,"response":"250 2.0.0 OK  1564381532 137sm73751214pfz.112 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<5a5b0c65-e113-9f4a-3b9d-49dc5d543d2e@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T06:25:33.285Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":801,"messageTime":642,"messageSize":1084,"response":"250 2.0.0 OK  1564381781 q144sm61395369pfc.103 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<fa197a70-0357-be92-8645-b3b3c97e7f16@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T06:29:42.583Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-07-29T06:35:38.627Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":916,"messageTime":740,"messageSize":1084,"response":"250 2.0.0 OK  1564383240 s22sm66121676pfh.107 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<7715e161-2975-20f5-27d5-14cb9b5b5275@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T06:54:01.123Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":802,"messageTime":564,"messageSize":1084,"response":"250 2.0.0 OK  1564383653 b126sm90011795pfa.126 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<9437b8be-c38d-2938-5340-e4bfef151dda@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T07:00:53.825Z"}
+{"accepted":["areez123@gmail.com"],"rejected":[],"envelopeTime":805,"messageTime":573,"messageSize":1084,"response":"250 2.0.0 OK  1564383938 b29sm94597268pfr.159 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["areez123@gmail.com"]},"messageId":"<25128a19-305b-e469-23a3-b69253fe3643@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T07:05:38.803Z"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND smtp.gmail.com smtp.gmail.com:465\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)","timestamp":"2019-07-29T07:16:00.300Z"}
+{"accepted":["reshma111mulani@gmail.com"],"rejected":[],"envelopeTime":870,"messageTime":887,"messageSize":1120,"response":"250 2.0.0 OK  1564384971 p20sm64711682pgi.81 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["reshma111mulani@gmail.com"]},"messageId":"<91dafb8e-75e3-0e08-a061-89a2141ad6f1@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T07:22:52.283Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-07-29T07:48:05.321Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-07-29T07:48:07.367Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T07:48:07.425Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-07-29T07:48:07.428Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-07-29T07:48:07.429Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-07-29T07:48:07.431Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T07:48:07.431Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-07-29T07:48:07.433Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-07-29T07:48:07.634Z"}
+{"accepted":["reshma111mulani@gmail.com"],"rejected":[],"envelopeTime":882,"messageTime":711,"messageSize":1210,"response":"250 2.0.0 OK  1564386550 2sm107033631pgm.39 - gsmtp","envelope":{"from":"info.ojiloji@gmail.com","to":["reshma111mulani@gmail.com"]},"messageId":"<4f0631b8-f898-beef-684a-05df560d7fa7@gmail.com>","level":"info","message":"Email Sent ","timestamp":"2019-07-29T07:49:10.858Z"}
+{"level":"info","message":"Added Default Roles","timestamp":"2019-07-29T12:41:34.981Z"}
+{"level":"info","message":"Deafault product tpes Added ","timestamp":"2019-07-29T12:41:37.035Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T12:41:37.037Z"}
+{"level":"info","message":"Deafault product PriceUnit Added","timestamp":"2019-07-29T12:41:37.037Z"}
+{"level":"info","message":"Deafault product Conditon Added ","timestamp":"2019-07-29T12:41:37.037Z"}
+{"level":"info","message":"Deafault product Conditon Added","timestamp":"2019-07-29T12:41:37.046Z"}
+{"level":"info","message":"Deafault product Payment method Added","timestamp":"2019-07-29T12:41:37.047Z"}
+{"level":"info","message":"Deafault product country Added","timestamp":"2019-07-29T12:41:37.047Z"}
+{"level":"info","message":"Added Default User","timestamp":"2019-07-29T12:41:37.272Z"}
