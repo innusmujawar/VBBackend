@@ -58,9 +58,10 @@ router.post('/auth/signup',function(req,res,next){
             if(userData.hasOwnProperty('acountType')){
                 newUser.acountDetails.acountType = userData.acountType;
                 newUser.acountDetails.socialId = userData.socialId;
-                newUser.userStatus = true;
+                // newUser.userStatus = true;
             }
-            newUser.roleId = data._id;            
+            newUser.roleId = data._id;  
+            newUser.userStatus = true;          
             newUser.save().then(
                 () => {
                   res.status(201).json({

@@ -8,7 +8,7 @@ var role = require('../userManagement/user_model').Role;
 var user = require('../userManagement/user_model').User;
 
 //Checking user authentication by generated token
-exports.checkUserAuthentication = function (req, res, next) {
+exports.checkUserAuthentication =  (req, res, next) => {
     console.log('+++++++++++++++++++++=')
     if (!req.headers.authorization) {
         return res.status(401).send({ message: 'Unauthorized', status: false });
@@ -60,7 +60,6 @@ exports.createDefaultUser = function () {
             console.log("2. err", err)
             // logger.error(err);
         } else {
-            console.log('RoleDataDefaultUserCreation=', roleData)
             var defaultUser = {
                 roleId : roleData._id,
                 email: "jhon@gmail.com",

@@ -2,7 +2,7 @@
 var express = require('express');
 // var path = require('path');
 var cors = require('cors');
-var favicon = require('serve-favicon');
+// var favicon = require('serve-favicon');
 var logger = require('morgan');
 var mongoose = require('mongoose');
 // var morgan = require('morgan');
@@ -25,18 +25,19 @@ app.options('*', cors());
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(expressFileUpload());
+// app.use(expressFileUpload());
 app.use(compression());
 app.use(expressValidator());
-// app.use(express.static(path.join(__dirname, 'dist/ojiloji')));
-// app.use('/', express.static(path.join(__dirname, 'dist/ojiloji')));
 
 var userDefault = require('./routes/userManagement/user_default');
 
 var userAPI = require('./routes/userManagement/user_controller');
+var fileAPI = require('./routes/fileManagement/file_controller');
+var propertyAPI = require('./routes/propertyManagement/addProperty_controller');
 
 app.use('/', userAPI);
-
+app.use('/', fileAPI);
+app.use('/',propertyAPI);
 
 var server = require('http').createServer(app);
 
@@ -48,7 +49,7 @@ server.listen(config.PORT, function() {
 
 // var socket = require('./socket')(io);
 
-app.use(function(req, res, next) {
+app.use((req, res, next) => {
     if (config.LOGGER) {
         winstonLogger.info(req.path);
         if (req.method === 'GET') {
